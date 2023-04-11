@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-11T08:57:36.130Z</updated>
+  <updated>2023-04-11T09:05:07.267Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,39 +17,12 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>java安装</title>
-    <link href="http://example.com/2023/04/11/java%E5%AE%89%E8%A3%85/"/>
-    <id>http://example.com/2023/04/11/java%E5%AE%89%E8%A3%85/</id>
-    <published>2023-04-11T08:57:20.000Z</published>
-    <updated>2023-04-11T08:57:36.130Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="java安装"><a href="#java安装" class="headerlink" title="java安装"></a>java安装</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;java安装&quot;&gt;&lt;a href=&quot;#java安装&quot; class=&quot;headerlink&quot; title=&quot;java安装&quot;&gt;&lt;/a&gt;java安装&lt;/h1&gt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>mysql安装</title>
     <link href="http://example.com/2023/04/11/mysql%E5%AE%89%E8%A3%85/"/>
     <id>http://example.com/2023/04/11/mysql%E5%AE%89%E8%A3%85/</id>
-    <published>2023-04-11T08:50:30.000Z</published>
-    <updated>2023-04-11T08:52:19.840Z</updated>
+    <published>2023-04-11T09:05:07.000Z</published>
+    <updated>2023-04-11T09:05:07.267Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="mysql安装"><a href="#mysql安装" class="headerlink" title="mysql安装"></a>mysql安装</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;mysql安装&quot;&gt;&lt;a href=&quot;#mysql安装&quot; class=&quot;headerlink&quot; title=&quot;mysql安装&quot;&gt;&lt;/a&gt;mysql安装&lt;/h1&gt;</summary>
-      
     
     
     
