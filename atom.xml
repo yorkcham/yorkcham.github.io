@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-11T09:05:07.267Z</updated>
+  <updated>2023-04-11T09:21:22.719Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>mysql安装</title>
-    <link href="http://example.com/2023/04/11/mysql%E5%AE%89%E8%A3%85/"/>
-    <id>http://example.com/2023/04/11/mysql%E5%AE%89%E8%A3%85/</id>
-    <published>2023-04-11T09:05:07.000Z</published>
-    <updated>2023-04-11T09:05:07.267Z</updated>
+    <title>第二个博客</title>
+    <link href="http://example.com/2023/04/11/%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/2023/04/11/%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2023-04-11T09:21:08.000Z</published>
+    <updated>2023-04-11T09:21:22.719Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="第二个博客"><a href="#第二个博客" class="headerlink" title="第二个博客"></a>第二个博客</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;第二个博客&quot;&gt;&lt;a href=&quot;#第二个博客&quot; class=&quot;headerlink&quot; title=&quot;第二个博客&quot;&gt;&lt;/a&gt;第二个博客&lt;/h1&gt;</summary>
+      
     
     
     
