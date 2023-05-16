@@ -2,36 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/04/11/%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>http://example.com/post/30554.html</loc>
     
-    <lastmod>2023-04-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/04/11/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E4%BD%BF%E7%94%A8hexo/</loc>
-    
-    <lastmod>2023-04-11</lastmod>
+    <lastmod>2023-05-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/2023/04/10/My-New-Post/</loc>
+    <loc>http://example.com/post/16107.html</loc>
     
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-05-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/2023/04/10/hello-world/</loc>
+    <loc>http://example.com/post/64118.html</loc>
     
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/295.html</loc>
+    
+    <lastmod>2023-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/22554.html</loc>
+    
+    <lastmod>2023-05-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +49,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2023-04-11</lastmod>
+    <lastmod>2023-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

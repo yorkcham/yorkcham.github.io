@@ -1,5 +1,6 @@
-http://example.com/2023/04/11/%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%8D%9A%E5%AE%A2/
-http://example.com/2023/04/11/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E4%BD%BF%E7%94%A8hexo/
-http://example.com/2023/04/10/My-New-Post/
-http://example.com/2023/04/10/hello-world/
+http://example.com/post/30554.html
+http://example.com/post/16107.html
+http://example.com/post/64118.html
+http://example.com/post/295.html
+http://example.com/post/22554.html
 http://example.com/
